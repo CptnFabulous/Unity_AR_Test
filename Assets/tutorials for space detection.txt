@@ -1,0 +1,2 @@
+Some interesting tutorials, that might allow me to have corner and surface detection
+https://blog.theknightsofunity.com/category/augmented-reality/
